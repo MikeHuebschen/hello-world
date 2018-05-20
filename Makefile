@@ -6,7 +6,7 @@ TARGET=hello
 all: $(TARGET)
 
 $(TARGET): hello.c
-	$(CC) -o $@ $+
+	$(CC) -o $@ $^
 
 .PHONY: clean
 clean:
