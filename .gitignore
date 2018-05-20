@@ -1,0 +1,6 @@
+hello
+
+# ignore all logs
+*.log
+
+
