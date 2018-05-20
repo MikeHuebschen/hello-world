@@ -1,5 +1,4 @@
 CC=gcc
-
 TARGET=hello
 
 .PHONY: all
