@@ -9,5 +9,5 @@ $(TARGET): hello.c
 
 .PHONY: clean
 clean:
-	rm $(TARGET)
+	$(RM) $(TARGET)
 
