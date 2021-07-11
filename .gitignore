@@ -1,7 +1,9 @@
+
 hello
 notes.txt
-
-# ignore all logs
+cscope.out
+tags
+*.swp
+*.core
 *.log
-
 
